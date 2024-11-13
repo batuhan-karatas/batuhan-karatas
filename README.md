@@ -28,7 +28,7 @@ I’m ready to build everything from custom applications to eCommerce platforms.
   </div>
 
   ### ✨ For My Personal Website:
-  [Visit My Portfolio](https://batuhankaratas.dev) 
+  [Explore My Work](https://batuhankaratas.dev)
   <!-- 
   <div> 
    <a href="https://batuhankaratas.dev" target="_blank">
