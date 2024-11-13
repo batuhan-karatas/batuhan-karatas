@@ -26,9 +26,12 @@ I’m ready to build everything from custom applications to eCommerce platforms.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   </div>
+
+### ✨ My Personal Website:
   <div> 
    <a href="https://batuhankaratas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" height="40" alt="Portfolio" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/earth/earth-original.svg" width="30" height="30" alt="Earth Icon" />
+    <!-- <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" height="40" alt="Click Here" /> -->
   </a>
   </div>
  
