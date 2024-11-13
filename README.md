@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Batuhan! Welcome to my GitHub!
-🚀 **Full Stack Developer specializing in dynamic, responsive web and mobile applications.** 
-I turn ideas into impactful solutions using modern technologies. With expertise in HTML, CSS3, JavaScript, React, Node.js, Express.js, and MongoDB,
-I’m ready to build everything from custom applications to eCommerce platforms.
+🚀 **Full Stack Developer specializing in dynamic, responsive web and mobile applications.** <br>
+I turn ideas into impactful solutions using modern technologies. With expertise in HTML, CSS3, JavaScript, React, Node.js, Express.js, and MongoDB,<br>
+I’m ready to build everything from custom applications to eCommerce platforms.<br>
 
-### 🛠️ My Expertise:
+### 🛠️ My Expertise:<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
@@ -20,15 +20,12 @@ I’m ready to build everything from custom applications to eCommerce platforms.
 
 
 ### 🌐 Where to Find Me:
-<p align="left">
+<p>
   <a href="https://batuhankaratas.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/batuhan-karatas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/fazli-batuhan-karatas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
 
