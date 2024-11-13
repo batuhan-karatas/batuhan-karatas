@@ -27,9 +27,8 @@ I’m ready to build everything from custom applications to eCommerce platforms.
   </a>
   </div>
 
-
+  ### ✨ For My Personal Website:
   <div> 
-    ### ✨ For My Personal Website:
    <a href="https://batuhankaratas.dev" target="_blank">
     <img src="https://img.shields.io/badge/Click Here-FFFFFF?style=round-square&logo=internet-explorer&logoColor=white" height="40" alt="Portfolio Website" />
   </a>
