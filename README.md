@@ -20,12 +20,12 @@ I’m ready to build everything from custom applications to eCommerce platforms.
 
 
 ### 🌐 Where to Find Me:
-<p>
-  <a href="https://batuhankaratas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/fazli-batuhan-karatas" target="_blank">
+<p align= "vertical">
+   <a href="https://linkedin.com/in/fazli-batuhan-karatas" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://batuhankaratas.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white" height="40" alt="Portfolio" />
   </a>
 </p>
 
