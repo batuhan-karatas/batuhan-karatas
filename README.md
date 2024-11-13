@@ -28,7 +28,8 @@ I’m ready to build everything from custom applications to eCommerce platforms.
   </div>
 
   ### ✨ For My Personal Website:
-  [Explore My Work](https://batuhankaratas.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-blue?style=for-the-badge)](https://batuhankaratas.dev)
+
   <!-- 
   <div> 
    <a href="https://batuhankaratas.dev" target="_blank">
