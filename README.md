@@ -27,14 +27,14 @@ I’m ready to build everything from custom applications to eCommerce platforms.
   </a>
   </div>
 
-### ✨ My Personal Website:
+### ✨ For My Personal Website:
   <div> 
    <a href="https://batuhankaratas.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Click Here-FFFFFF?style=flat-square&logo=internet-explorer&logoColor=white" height="40" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Click Here-FFFFFF?style=round-square&logo=internet-explorer&logoColor=white" height="40" alt="Portfolio Website" />
   </a>
   </div>
  
 </div>
-
-
+<br />
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhan-karatas&layout=compact&theme=default)
